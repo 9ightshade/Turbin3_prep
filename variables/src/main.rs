@@ -5,9 +5,9 @@ fn main() {
 
 //array
 fn array_rust() {
-    let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    // let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-    let arr2 = [3; 5];
+    // let arr2 = [3; 5];
 
     let months = [
         "January",
@@ -50,8 +50,8 @@ fn array_rust() {
     //accessing array elements
     println!("{}", months[0]);
     println!("{}", months[1]);
-    println!("{}", arr2[2]);
-    println!("{}", arr[3]);
+    // println!("{}", arr2[2]);
+    // println!("{}", arr[3]);
 
     println!("{}", house_names[0]);
 
